@@ -1,2 +1,2 @@
-phantomjs-screencapture-diff
+casperjs-screencapture-diff
 ============================
